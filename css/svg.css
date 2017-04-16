@@ -1,0 +1,122 @@
+svg{margin:50px 350px;}
+
+.os{
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: dash 3s linear forwards;
+animation-delay:1s;}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+.os1,.line,#svg_119,#svg_124,#svg_133,#svg_132,#svg_131,#svg_140,#svg_139,#svg_138,#svg_137,#svg_130,#svg_148,#svg_147,#svg_129,#svg_14,#svg_21,#svg_22,#svg_23,#svg_31,#svg_15{
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: dash 6s linear forwards; 
+}
+{stroke:#2F4F4F}
+.os1{ animation-delay:3s;}
+.line {animation-delay:4s;}
+.number{
+ -webkit-animation: opacity 6s forwards 0s;
+ -moz-animation: opacity 6s forwards 0s;
+ -ms-animation: opacity 6s forwards 0s;
+ }
+.xy{ -webkit-animation: opacity 7s forwards 0s;
+ -moz-animation: opacity 7s forwards 0s;
+ -ms-animation: opacity 7s forwards 0s;}
+
+ @keyframes opacity {
+	from{opacity:0;}
+	40%{opacity:0;}
+	50%{opacity:0;}
+	75%{opacity:0;}
+	to {opacity:1;}
+}
+
+#point1{ -webkit-animation: opacity 9s forwards 0s;
+ -moz-animation: opacity 9s forwards 0s;
+ -ms-animation: opacity 9s forwards 0s;}
+#svg_119{animation-delay:10s;
+}
+
+#point2{ -webkit-animation: opacity 14s forwards 0s;
+ -moz-animation: opacity 14s forwards 0s;
+ -ms-animation: opacity 14s forwards 0s;}
+#svg_124{animation-delay:14s;}
+
+#point3{ -webkit-animation: opacity 18s forwards 0s;
+ -moz-animation: opacity 18s forwards 0s;
+ -ms-animation: opacity 18s forwards 0s;}
+#svg_133{animation-delay:18s;}
+
+#point4{ -webkit-animation: opacity 23s forwards 0s;
+ -moz-animation: opacity 23s forwards 0s;
+ -ms-animation: opacity 23s forwards 0s;}
+#svg_132{animation-delay:23s;}
+
+#point5{ -webkit-animation: opacity 30s forwards 0s;
+ -moz-animation: opacity 30s forwards 0s;
+ -ms-animation: opacity 30s forwards 0s;}
+#svg_131{animation-delay:26s;}
+#point6{ -webkit-animation: opacity 35s forwards 0s;
+ -moz-animation: opacity 35s forwards 0s;
+ -ms-animation: opacity 35s forwards 0s;}
+#svg_140{animation-delay:31s;}
+#point7{ -webkit-animation: opacity 39s forwards 0s;
+ -moz-animation: opacity 39s forwards 0s;
+ -ms-animation: opacity 39s forwards 0s;}
+#svg_139{animation-delay:35s;}
+
+#point8{ -webkit-animation: opacity 48s forwards 0s;
+ -moz-animation: opacity 48s forwards 0s;
+ -ms-animation: opacity 48s forwards 0s;}
+#svg_138{animation-delay:41s;}
+
+#point9{ -webkit-animation: opacity 56s forwards 0s;
+ -moz-animation: opacity 56s forwards 0s;
+ -ms-animation: opacity 56s forwards 0s;}
+#svg_137{animation-delay:49s;}
+
+#point10{ -webkit-animation: opacity 65s forwards 0s;
+ -moz-animation: opacity 65s forwards 0s;
+ -ms-animation: opacity 65s forwards 0s;}
+#svg_130{animation-delay:60s;}
+
+#point11{ -webkit-animation: opacity 75s forwards 0s;
+ -moz-animation: opacity 75s forwards 0s;
+ -ms-animation: opacity 75s forwards 0s;}
+#svg_148{animation-delay:68s;}
+
+#point12{ -webkit-animation: opacity 86s forwards 0s;
+ -moz-animation: opacity 86s forwards 0s;
+ -ms-animation: opacity 86s forwards 0s;}
+#svg_147{animation-delay:78s;}
+
+#point13{ -webkit-animation: opacity 98s forwards 0s;
+ -moz-animation: opacity 98s forwards 0s;
+ -ms-animation: opacity 98s forwards 0s;}
+#svg_129{animation-delay:90s;}
+
+#svg_21{animation-delay:97s;}
+#svg_22{animation-delay:103s;} 
+#svg_14{animation-delay:114s;}
+#svg_23{animation-delay:110s;}
+#svg_31{animation-delay:112s;}
+#svg_31{animation-delay:115s;}
+#svg_27{animation-delay:119s;}
+.noz{animation-delay:122s;}
+
+#svg_15{animation-delay:125s;}
+
+path,.noz,.eyes{ stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: dash 25s linear forwards; 
+  animation-delay:129s;
+    stroke: #363636;
+    stroke-width:2px;}
+.eyes{animation-delay:133s;}
+
+#svg_66{stroke: #f00; }
